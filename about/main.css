@@ -1,0 +1,167 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	 
+	  background-image:url(bgtile.png);
+ 
+ cursor:default;
+	    }
+
+#navContent{
+
+margin:auto;	width:800px;height:350px;background-color:#FFF;
+position:relative;
+overflow:hidden;
+}
+
+
+
+#about{ 
+margin:auto;
+padding:10px;margin:10px;font-size:14px;color:#663300;
+font-family:Arial, Helvetica, sans-serif;}
+
+
+#banner{background-color:white;}
+#banner img{width:50%}
+#footer{height:40px;width:100%;}
+#home{
+width:800px;
+margin:auto;color:#663300;font-size:16px;font-family:Arial, Helvetica, sans-serif;}
+
+#scorebar{
+width:800px;
+margin:auto;
+color:#663300;
+font-family:Arial, Helvetica, sans-serif;
+}
+#score1{float:left;padding-right:10px;}
+#score2{float:left;padding-right:10px;}
+
+ 
+ 
+ 
+
+.tf1{height:220px;padding:10px;width:470px;font-size:40px;color:#663300;float:left;background-color:rgba(255,255,255,0.5);
+		font-family:Open Sans,Montserrat,Arial, Helvetica, sans-serif;}
+
+ 
+
+.tf1b{width:200px;padding:10px;margin:10px;font-size:25px;color:#663300;float:right;background-color:rgba(255,255,255,0.5);
+		font-family:Open Sans,Montserrat,Arial, Helvetica, sans-serif;}
+
+
+
+.tf1b:hover{
+    background-color:Silver;
+	cursor:pointer;
+} 
+
+ 
+
+.rightpic{position:absolute;right:0px;top:0px;}
+
+.title1{width:400px;height:100px;padding:20px;font-size:65px;
+color:#663300;background-color:rgba(255,255,255,0.5);
+		font-family:Montserrat,Arial, Helvetica, sans-serif;}
+
+.title2{width:400px;padding:20px;font-size:45px;color:#663300;float:left;background-color:rgba(255,255,255,0.5);
+		font-family:Montserrat,Arial, Helvetica, sans-serif;}
+
+
+
+
+
+
+.eg1{width:760px;height:60px;padding:20px;font-size:35px;color:#663300;
+		font-family:Montserrat,Arial, Helvetica, sans-serif;}
+.eg2{ font-size:25px;color:#663300;
+		font-family:Montserrat,Arial, Helvetica, sans-serif;}
+.eg3{width:800px; padding:20px;font-size:15px;color:#663300;
+		font-family:Montserrat,Arial, Helvetica, sans-serif;}
+
+ #topbar{
+height:50px;
+margin-top:10px;
+ }
+ 
+ #banner {
+ 	width:800px;
+margin:auto;}
+	 	
+	 
+	 
+
+
+
+#spacer{
+	height:10px;
+	}
+
+#spacer3{width:30px;float:left;margin-left:30px; }
+ 
+#game1{
+
+margin:auto;	width:800px;height:350px;
+right:-800px;
+position:absolute;
+}
+
+#game2{
+
+margin:auto;	width:800px;height:350px;
+right:-800px;
+position:absolute;
+}
+
+
+.feedback1{
+width:100px;
+font-size:30px;
+color:#FFFFCC;
+font-family:Montserrat,Arial, Helvetica, sans-serif;
+position:absolute;
+left:10px;
+bottom:15px;
+}
+
+
+#feedback{color:#663300;}
+#aboutContent{
+
+margin:auto;	width:800px;height:400px;
+position:relative;
+overflow:hidden;
+font-family:Arial, Helvetica, sans-serif;
+color:#FFFFFF;
+}
+
+ 
+a:link {color:#663300;text-decoration:none;}      /* unvisited link */
+a:visited {color:#999999;text-decoration:none;}  /* visited link */
+a:hover {color:#999999;text-decoration:none;}  /* mouse over link */
+a:active {color:#663300;text-decoration:none;}  /* selected link */ 
+	 
+
+
+
+
+
+
+
+@media screen and (max-width:800px) {
+	#navContent{width:90%;height:auto;}
+	#home{width:90%;}
+		#topbar{height:50px;}
+	#banner  {width:100%; 	}
+}
+	
+	
+	
+@media screen and (max-width:450px) {
+#i2{display:none;}
+#banner  {width:100%; 	}
+#banner img{width:100%;}
+}	
+		 		
+@media screen and (max-width:350px) {#banner img{  margin-top:10px;}}
