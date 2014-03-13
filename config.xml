@@ -13,6 +13,11 @@
         Learn a selection of English idioms
     </description>
 
+
+<icon src="idicon36.png" gap:platform="android" gap:density="ldpi" />
+<icon src="idicon48.png" gap:platform="android" gap:density="mdpi" />
+<icon src="idicon72.png" gap:platform="android" gap:density="hdpi" />
+<icon src="idicon72.png" gap:platform="android" gap:density="xhdpi" />
     
 
 </widget>
