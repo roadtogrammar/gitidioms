@@ -191,7 +191,8 @@ function showGlossary(){
 		qbank2[i]=typeArray;
 		
 	}
-	
+		 $('#navContent').css("height","290px");
+	 $('#game1').css("height","290px");
 	qbank2.sort();  
 	 $(obj2).append('<div id="home2">HOME</div');
 	 for(i=0;i<qbank2.length;i++){
@@ -200,8 +201,7 @@ function showGlossary(){
 		 $(obj2).append('<div class="spacer5"></div>');
 	 }//for
 	 
-	 $('#navContent').css("height","290px");
-	 $('#game1').css("height","290px");
+
 	 $('#home2').click(function(){$(obj2).empty();startGame();});
 	 
 }//showgloss
