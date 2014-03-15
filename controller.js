@@ -109,7 +109,7 @@ $('.tf1b').on("touchend", function(ev) {
     $(this).css('background-color','rgba(255,255,255,0.5)'); 
 });
 
-$('.tf1b').tap(function(){//alert($('#'+this.id).css('width'));
+$('.tf1b').click(function(){//alert($('#'+this.id).css('width'));
 			if(qlock==false){qlock=true;	
 			$('#'+this.id).css('color','white');//$('.tf1b').css('color','white');
 			
