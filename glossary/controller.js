@@ -49,15 +49,16 @@ qbank=new Array();qbank2=new Array();
 
  
 function kickoff(){ 
-	chooseGame();
- 	$("#game1").animate({"right": "+=800px"},"slow", function() {});
+	//chooseGame();
+ 	//$("#game1").animate({"right": "+=800px"},"slow", function() {});
+	showGlossary();
 }//kickoff
 
 	function startGame(){ 
 		 $('#navContent').css("height","350px");
 	 $('#game1').css("height","350px");
 		$(obj2).append('<div class="title1">Activity</div><p>');
-		$(obj2).append('<a href="glossary/index.html"><div class="title2">Glossary</div></a>');
+		$(obj2).append('<div class="title2">Glossary</div>');
 		$(obj2).append('<a href="about/index.html"><div class="title3">What is an idiom?</div></a>');
 		$(obj2).append('<div class="rightpic"><img src="pix.png"></div>');
 $('.title1').click(function(){$('.title1').off('click');  changeQuestion();})
@@ -95,21 +96,13 @@ if(rnd==2){op1=qbank[qNumber][4];op2=qbank[qNumber][2];op3=qbank[qNumber][3];}
 
 $(obj2).append('<div class="tf1">'+qbank[qNumber][1]+'</div><div id="1" class="tf1b"  >'+op1+'</div><div id="2" class="tf1b"  >'+op2+'</div><div id="3" class="tf1b"  >'+op3+'</div>');
 
-//$('.tf1b').hover(function(){if(qlock==false){
-//    $(this).css('background-color','silver'); 
-//}},function(){if(qlock==false){
- //   $(this).css('background-color','rgba(255,255,255,0.5)');
-//}});
-
-$('.tf1b').on("touchstart", function(ev) {
+$('.tf1b').hover(function(){if(qlock==false){
     $(this).css('background-color','silver'); 
-});
+}},function(){if(qlock==false){
+    $(this).css('background-color','rgba(255,255,255,0.5)');
+}});
 
-$('.tf1b').on("touchend", function(ev) {
-    $(this).css('background-color','rgba(255,255,255,0.5)'); 
-});
-
-$('.tf1b').tap(function(){//alert($('#'+this.id).css('width'));
+$('.tf1b').click(function(){//alert($('#'+this.id).css('width'));
 			if(qlock==false){qlock=true;	
 			$('#'+this.id).css('color','white');//$('.tf1b').css('color','white');
 			
@@ -190,7 +183,7 @@ function chooseGame(){
 
 
 function showGlossary(){
-	$(obj2).empty();
+	//$(obj2).empty();
 	qbank2=[];
 	for(i=0;i<qbank.length;i++){
 		typeArray=[];
@@ -199,17 +192,17 @@ function showGlossary(){
 		qbank2[i]=typeArray;
 		
 	}
-		 $('#navContent').css("height","290px");
-	 $('#game1').css("height","290px");
+		// $('#navContent').css("height","290px");
+	// $('#game1').css("height","290px");
 	qbank2.sort();  
-	 $(obj2).append('<div id="home2">HOME</div');
+	$('#topbar').append('<a href="../index.html"><div id="home2">&nbsp;&nbsp;&nbsp;HOME</div></a>');
 	 for(i=0;i<qbank2.length;i++){
-		 $(obj2).append('<div class="element">'+qbank2[i][0]+'</div>');
-		 $(obj2).append('<div class="element2">'+qbank2[i][1]+'</div>');
-		 $(obj2).append('<div class="spacer5"></div>');
+		$('#navContent').append('<div class="element">'+qbank2[i][0]+'</div>');
+		$('#navContent').append('<div class="element2">'+qbank2[i][1]+'</div>');
+		 $('#navContent').append('<div class="spacer5"></div>');
 	 }//for
 	 
-
+			//$('#navContent').css("z-index", "-1");
 	 $('#home2').click(function(){$(obj2).empty();startGame();});
 	 
 }//showgloss

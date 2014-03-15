@@ -1,0 +1,1289 @@
+{"quizlist":[
+
+
+
+        
+{
+"qtype":"mcq",
+"ques":"Joe is a big _____ in the computer business. ",
+"op1":"cheese",
+"op2":"cabbage",
+"op3":"sprout",
+"def":"A big cheese = an important person"
+},
+{
+"qtype":"mcq",
+"ques":"The company wanted to create a _____ about the new product. ",
+"op1":"buzz",
+"op2":"shout",
+"op3":"noise",
+"def":"Create a buzz = to create excitement (buzz is the sound bees make when excited) "
+},
+{
+"qtype":"mcq",
+"ques":"We expect the new smartphone to be a _____ success. ",
+"op1":"runaway",
+"op2":"foldaway",
+"op3":"giveaway",
+"def":"A runaway success =  a big success"
+},
+{
+"qtype":"mcq",
+"ques":"They are going to close down the building for _____. It's too old. ",
+"op1":"good",
+"op2":"up",
+"op3":"best",
+"def":"For good = forever"
+},
+{
+"qtype":"mcq",
+"ques":"Please keep me in _____ when you are looking for a business partner. ",
+"op1":"mind",
+"op2":"brain",
+"op3":"sight",
+"def":"Keep something in mind = remember/think about something"
+},
+{
+"qtype":"mcq",
+"ques":"It is _____ to the boss who goes to the seminar. ",
+"op1":"up",
+"op2":"all",
+"op3":"out",
+"def":"Up to someone = someone's responsibility or duty"
+},
+{
+"qtype":"mcq",
+"ques":"She cried in court. I think they were _____ tears. ",
+"op1":"crocodile",
+"op2":"turtle",
+"op3":"hamster",
+"def":"Crocodile tears = false tears, someone is pretending to be sad"
+},
+{
+"qtype":"mcq",
+"ques":"You knew you could get in trouble for this. Now you have to _____ the music. ",
+"op1":"face",
+"op2":"play",
+"op3":"hum",
+"def":"Face the music = take the punishment or consequences for an action"
+},
+{
+"qtype":"mcq",
+"ques":"The company is in the _____; it's making a profit. ",
+"op1":"black",
+"op2":"red",
+"op3":"blue",
+"def":"In the black = making profit"
+},
+{
+"qtype":"mcq",
+"ques":"The company is in the _____; it's making a loss. ",
+"op1":"red",
+"op2":"black",
+"op3":"white",
+"def":"In the red = making a loss"
+},
+{
+"qtype":"mcq",
+"ques":"Our boss runs a tight _____; he is really strict. ",
+"op1":"ship",
+"op2":"train",
+"op3":"boat",
+"def":"Run a tight ship = is a strict boss or manager"
+},
+{
+"qtype":"mcq",
+"ques":"Knock on _____, the supplies should arrive in time. ",
+"op1":"wood",
+"op2":"metal",
+"op3":"plastic",
+"def":"Knock on wood = the action of knocking on wood brings good luck = often we say it and do it at the same time"
+},
+{
+"qtype":"mcq",
+"ques":"We need to strike while the _____ is hot; it's a great opportunity. ",
+"op1":"iron",
+"op2":"steel",
+"op3":"magnesium",
+"def":"Strike while the iron is hot = act while the opportunity is available"
+},
+{
+"qtype":"mcq",
+"ques":"It'll be no _____ to finish by Monday; we have plenty of time. ",
+"op1":"sweat",
+"op2":"cake",
+"op3":"oil",
+"def":"No sweat = easy (it doesn't cause us to sweat) "
+},
+{
+"qtype":"mcq",
+"ques":"Please hear me _____; just let me say what I need to say. ",
+"op1":"out",
+"op2":"up",
+"op3":"down",
+"def":"Hear someone out = let someone finish what they need to say"
+},
+{
+"qtype":"mcq",
+"ques":"I'm not _____ anyone at the moment, so I'll be lonely on Valentine's Day. ",
+"op1":"seeing",
+"op2":"looking",
+"op3":"hearing",
+"def":"See someone = be romantically involved with someone"
+},
+{
+"qtype":"mcq",
+"ques":"You really screwed my computer _____ I hope you can fix it. ",
+"op1":"up",
+"op2":"down",
+"op3":"out",
+"def":"Screw up = to make a big mistake"
+},
+{
+"qtype":"mcq",
+"ques":"She's been unhappy since she broke _____ with Tim. ",
+"op1":"up",
+"op2":"down",
+"op3":"in",
+"def":"Break up = to stop dating someone"
+},
+{
+"qtype":"mcq",
+"ques":"If you give it your best _____ you might win the contest. ",
+"op1":"shot",
+"op2":"pot",
+"op3":"lot",
+"def":"Give it your best shot = to try with your best effort"
+},
+{
+"qtype":"mcq",
+"ques":"Things are getting out of _____ at the office with the boss away. ",
+"op1":"hand",
+"op2":"foot",
+"op3":"face",
+"def":"Get out of hand = get out of control"
+},
+{
+"qtype":"mcq",
+"ques":"I'm really _____ at her for scratching my car. ",
+"op1":"mad",
+"op2":"crazy",
+"op3":"stupid",
+"def":"Mad at someone = angry at someone"
+},
+{
+"qtype":"mcq",
+"ques":"He hates _____ talk. He likes to get right to the point. ",
+"op1":"small",
+"op2":"little",
+"op3":"old",
+"def":"Small talk = chatting about unimportant things"
+},
+{
+"qtype":"mcq",
+"ques":"The news came out of the _____. It was totally unexpected. ",
+"op1":"blue",
+"op2":"red",
+"op3":"green",
+"def":"Out of the blue = unexpected"
+},
+{
+"qtype":"mcq",
+"ques":"We caught the employee _____ -handed, stealing from the cash register. ",
+"op1":"red",
+"op2":"blue",
+"op3":"black",
+"def":"Caught red-handed = caught while performing a criminal activity"
+},
+{
+"qtype":"mcq",
+"ques":"The room cost an arm and a _____. Next time, we should choose a cheaper hotel. ",
+"op1":"leg",
+"op2":"foot",
+"op3":"head",
+"def":"Cost an arm and a leg = cost a lot of money"
+},
+{
+"qtype":"mcq",
+"ques":"She's a pain in the _____. She's always disturbing me. ",
+"op1":"neck",
+"op2":"foot",
+"op3":"tummy",
+"def":"Pain in the neck = something (or someone) annoying"
+},
+{
+"qtype":"mcq",
+"ques":"Harry has a _____ tooth, especially when it comes to cakes. ",
+"op1":"sweet",
+"op2":"big",
+"op3":"round",
+"def":"A sweet tooth = a liking for sweet food such as candy"
+},
+{
+"qtype":"mcq",
+"ques":"Joe really put his foot in his _____ when he said that. ",
+"op1":"mouth",
+"op2":"ear",
+"op3":"lap",
+"def":"Put your foot in your mouth = to say something that causes trouble"
+},
+{
+"qtype":"mcq",
+"ques":"I have a _____ to pick with you; I'm quite angry. ",
+"op1":"bone",
+"op2":"pipe",
+"op3":"pole",
+"def":"Have a bone to pick with someone = have an issue to argue with someone"
+},
+{
+"qtype":"mcq",
+"ques":"George is really _____ -skinned; it takes a lot to get him angry. ",
+"op1":"thick",
+"op2":"thin",
+"op3":"old",
+"def":"Thick-skinned = unaffected by insults or criticism"
+},
+{
+"qtype":"mcq",
+"ques":"Help me to keep an _____ out for the visitors. Our doorbell isn't working. ",
+"op1":"eye",
+"op2":"nose",
+"op3":"ear",
+"def":"Keep an eye out = look for something"
+},
+{
+"qtype":"mcq",
+"ques":"It was a tongue-in- _____ comment; he didn't mean it seriously. ",
+"op1":"cheek",
+"op2":"mouth",
+"op3":"throat",
+"def":"Tongue-in-cheek = a style of humour that is not immediately obvious"
+},
+{
+"qtype":"mcq",
+"ques":"I'm nervous about my presentation. I've got _____ in my stomach. ",
+"op1":"butterflies",
+"op2":"moths",
+"op3":"birds",
+"def":"Butterflies in my stomach = nervous"
+},
+{
+"qtype":"mcq",
+"ques":"Don't be a _____! That salesman is trying to rip you off. ",
+"op1":"chump",
+"op2":"chimp",
+"op3":"champ",
+"def":"Chump = an idiot or a fool"
+},
+{
+"qtype":"mcq",
+"ques":"She was angry and she needed to _____. ",
+"op1":"vent",
+"op2":"door",
+"op3":"window",
+"def":"Vent =  to release anger (by shouting) "
+},
+{
+"qtype":"mcq",
+"ques":"I'll show you the _____ since it's your first day on the job. ",
+"op1":"ropes",
+"op2":"wood",
+"op3":"strings",
+"def":"Show you the ropes = show you how a system works"
+},
+{
+"qtype":"mcq",
+"ques":"I was going over the speed limit but the cops turned a _____ eye. ",
+"op1":"blind",
+"op2":"closed",
+"op3":"shut",
+"def":"Turn a blind eye = pretend not to see something; ignore something"
+},
+{
+"qtype":"mcq",
+"ques":"I'm feeling under the _____. I'll call in sick to work ",
+"op1":"weather",
+"op2":"heat",
+"op3":"cold",
+"def":"Under the weather = sick"
+},
+{
+"qtype":"mcq",
+"ques":"These new HR policies are a real _____. ",
+"op1":"headache",
+"op2":"backache",
+"op3":"toothache",
+"def":"Headache = something annoying"
+},
+{
+"qtype":"mcq",
+"ques":"Heads will _____ when the boss finds out about the error. ",
+"op1":"roll",
+"op2":"fly",
+"op3":"spin",
+"def":"Heads will roll = people will be in big trouble"
+},
+{
+"qtype":"mcq",
+"ques":"Don't try to cut _____. Do it properly. ",
+"op1":"corners",
+"op2":"sides",
+"op3":"bottoms",
+"def":"Cut corners = do things quickly but not correctly"
+},
+{
+"qtype":"mcq",
+"ques":"Jack does all the _____ work while his boss takes the credit. ",
+"op1":"donkey",
+"op2":"pony",
+"op3":"horse",
+"def":"Donkey work = tedious or hard work"
+},
+{
+"qtype":"mcq",
+"ques":"I hope you have a Plan ___, because this isn't working out. ",
+"op1":"B",
+"op2":"A",
+"op3":"Z",
+"def":"Plan b = a secondary strategy, a second plan"
+},
+{
+"qtype":"mcq",
+"ques":"It's difficult to apply for a scholarship. There's a lot of _____ tape. ",
+"op1":"red",
+"op2":"black",
+"op3":"blue",
+"def":"Red tape = official rules; bureaucracy"
+},
+{
+"qtype":"mcq",
+"ques":"This product has always been a cash _____ for our company. ",
+"op1":"cow",
+"op2":"monkey",
+"op3":"kitten",
+"def":"Cash cow = something that earns a lot of money"
+},
+{
+"qtype":"mcq",
+"ques":"It's difficult at first, but you'll get the _____ of it. ",
+"op1":"hang",
+"op2":"droop",
+"op3":"spin",
+"def":"Get the hang of it = slowly learn something"
+},
+{
+"qtype":"mcq",
+"ques":"It seems like everybody wants to jump on the _____ and get an iPhone. ",
+"op1":"bandwagon",
+"op2":"train",
+"op3":"trolley",
+"def":"Jump on the bandwagon = to follow a popular trend"
+},
+{
+"qtype":"mcq",
+"ques":"We need to go back to the _____ board; we need to start over. ",
+"op1":"drawing",
+"op2":"writing",
+"op3":"painting",
+"def":"Go back to the drawing board =  to start over again"
+},
+{
+"qtype":"mcq",
+"ques":"That t-shirt is really _____, but he thinks it's cool. ",
+"op1":"cheesy",
+"op2":"groovy",
+"op3":"messy",
+"def":"Cheesy = silly or lacking style"
+},
+{
+"qtype":"mcq",
+"ques":"Copies of the new game are selling like _____. ",
+"op1":"hotcakes",
+"op2":"pancakes",
+"op3":"sardines",
+"def":"Sell like hotcakes = sell well"
+},
+{
+"qtype":"mcq",
+"ques":"It will be an _____ battle to convince the company to sponsor us. ",
+"op1":"uphill",
+"op2":"downhill",
+"op3":"roundhill",
+"def":"An uphill battle = a difficult task"
+},
+{
+"qtype":"mcq",
+"ques":"We get audited every six months, so we have to do everything by the _____. ",
+"op1":"book",
+"op2":"manual",
+"op3":"guide",
+"def":"Do it by the book = follow the rules closely"
+},
+{
+"qtype":"mcq",
+"ques":"Personally, I think all this stuff about healing crystals is just _____ jumbo. ",
+"op1":"mumbo",
+"op2":"tumbo",
+"op3":"rumbo",
+"def":"Mumbo Jumbo = nonsense; a silly superstition"
+},
+{
+"qtype":"mcq",
+"ques":"The faith healer can't really cure people. It's all just smoke and _____. ",
+"op1":"mirrors",
+"op2":"windows",
+"op3":"air",
+"def":"Smoke and mirrors = tricks"
+},
+{
+"qtype":"mcq",
+"ques":"We don't have a plan. We'll just play it by _____. ",
+"op1":"ear",
+"op2":"nose",
+"op3":"mouth",
+"def":"Play it by ear = do something without a plan or strategy"
+},
+{
+"qtype":"mcq",
+"ques":"If you don't register soon, you'll miss the _____. ",
+"op1":"boat",
+"op2":"flight",
+"op3":"journey",
+"def":"Miss the boat = miss an opportunity"
+},
+{
+"qtype":"mcq",
+"ques":"Let's give our next speaker a big _____.",
+"op1":"hand",
+"op2":"clap",
+"op3":"finger",
+"def":"A big hand = clapping from an audience"
+},
+{
+"qtype":"mcq",
+"ques":"They were fighting over a small matter. It was a storm in a _____ .",
+"op1":"teacup",
+"op2":"pond",
+"op3":"thimble",
+"def":"Storm in a teacup = a lot of trouble over a minor issue"
+},
+{
+"qtype":"mcq",
+"ques":"The train station is only a _____ throw from the hotel. ",
+"op1":"stone's",
+"op2":"ball's",
+"op3":"coin's",
+"def":"Stone's throw from here = near here "
+},
+{
+"qtype":"mcq",
+"ques":"My life has certainly had its ups and _____ .",
+"op1":"downs",
+"op2":"outs",
+"op3":"offs",
+"def":"Ups and downs = good points and bad points"
+},
+{
+"qtype":"mcq",
+"ques":"These handbags are really _____ at the moment. ",
+"op1":"in",
+"op2":"off",
+"op3":"over",
+"def":"In = fashionable"
+},
+{
+"qtype":"mcq",
+"ques":"He must be out of his _____ if he thinks Cuba can win the world cup. ",
+"op1":"mind",
+"op2":"brain",
+"op3":"skin",
+"def":"Out of his mind = crazy; silly"
+},
+{
+"qtype":"mcq",
+"ques":"It's no big _____ if you can't make it to the party. ",
+"op1":"deal",
+"op2":"call",
+"op3":"fold",
+"def":"No big deal = not important"
+},
+{
+"qtype":"mcq",
+"ques":"Pete was the _____ of the party. Everyone loved him. ",
+"op1":"life",
+"op2":"man",
+"op3":"best",
+"def":"The life of the party = drawing attention at a party"
+},
+{
+"qtype":"mcq",
+"ques":"I can't decide right now. I'll _____ on it. ",
+"op1":"sleep",
+"op2":"nap",
+"op3":"snooze",
+"def":"Sleep on it = think about something overnight and make a decision the next day"
+},
+{
+"qtype":"mcq",
+"ques":"Let's take _____ and continue the meeting after a short break. ",
+"op1":"five",
+"op2":"six",
+"op3":"seven",
+"def":"Take five = take a short break (as in five minutes) "
+},
+{
+"qtype":"mcq",
+"ques":"Look at the mess here. There'll be _____ to pay when the boss gets back. ",
+"op1":"hell",
+"op2":"death",
+"op3":"nightmares",
+"def":"Hell to pay = bad consequences"
+},
+{
+"qtype":"mcq",
+"ques":"He's such a _____. Don't trust him with any secrets. ",
+"op1":"blabbermouth",
+"op2":"jabbermouth",
+"op3":"stabbermouth",
+"def":"Blabbermouth = someone who cannot keep a secret"
+},
+{
+"qtype":"mcq",
+"ques":"He's getting too big for his _____. Someone needs to cut him down to size. ",
+"op1":"boots",
+"op2":"gloves",
+"op3":"suit",
+"def":"Too big for his boots = thinks he is more important than he is"
+},
+{
+"qtype":"mcq",
+"ques":"He's getting too big for his boots. Someone needs to cut him down to _____. ",
+"op1":"size",
+"op2":"normal",
+"op3":"ground",
+"def":"Cut him down to size = make someone less important; humiliate someone"
+},
+{
+"qtype":"mcq",
+"ques":"Hey! What's the _____ idea? Get away from my car. ",
+"op1":"big",
+"op2":"special",
+"op3":"best",
+"def":"What's the big idea? = said to challenge someone"
+},
+{
+"qtype":"mcq",
+"ques":"I met an old schoolmate the other day. What a small _____ !",
+"op1":"world",
+"op2":"place",
+"op3":"country",
+"def":"It's a small world = said to point out a coincidence"
+},
+{
+"qtype":"mcq",
+"ques":"I met an old friend the _____ day. ",
+"op1":"other",
+"op2":"past",
+"op3":"recent",
+"def":"The other day = a short time ago in the past"
+},
+{
+"qtype":"mcq",
+"ques":"I can't believe it's already March. How time _____ !",
+"op1":"flies",
+"op2":"goes",
+"op3":"rolls",
+"def":"Time flies = time moves quickly"
+},
+{
+"qtype":"mcq",
+"ques":"I'm having a _____ time at work. ",
+"op1":"rough",
+"op2":"jagged",
+"op3":"sharp",
+"def":"A rough time = a difficult time"
+},
+{
+"qtype":"mcq",
+"ques":"We had a _____ of a time at the zoo. ",
+"op1":"whale",
+"op2":"monkey",
+"op3":"hippo",
+"def":"A whale of a time = a great time"
+},
+{
+"qtype":"mcq",
+"ques":"It's _____ time you talked to your boss about your hours. ",
+"op1":"about",
+"op2":"around",
+"op3":"through",
+"def":"About time = an appropriate time or already past an appropriate time"
+},
+{
+"qtype":"mcq",
+"ques":"Only time will _____ if the new product will be a success. ",
+"op1":"tell",
+"op2":"say",
+"op3":"speak",
+"def":"Time will tell = we need to wait to find out"
+},
+{
+"qtype":"mcq",
+"ques":"For the time _____, I'll have to borrow Ted's laptop. ",
+"op1":"being",
+"op2":"going",
+"op3":"running",
+"def":"For the time being = for now"
+},
+{
+"qtype":"mcq",
+"ques":"I have a lot of time on my _____ since I retired. ",
+"op1":"hands",
+"op2":"head",
+"op3":"back",
+"def":"Have a lot of time on my hands = I have a lot of free time"
+},
+{
+"qtype":"mcq",
+"ques":"She's a night _____. She rarely goes to bed before three. ",
+"op1":"owl",
+"op2":"cat",
+"op3":"parrot",
+"def":"A night owl = a person who enjoys the night and sleeps late"
+},
+{
+"qtype":"mcq",
+"ques":"The _____ is the limit for these young Harvard grads. ",
+"op1":"sky",
+"op2":"road",
+"op3":"border",
+"def":"The sky is the limit =  there are big opportunities"
+},
+{
+"qtype":"mcq",
+"ques":"We've done enough work for now. Let's call it a _____.",
+"op1":"day",
+"op2":"time",
+"op3":"stop",
+"def":"Call it a day = stop work for today"
+},
+{
+"qtype":"mcq",
+"ques":"Don't rush. _____ wasn't built in a day. ",
+"op1":"Rome",
+"op2":"Paris",
+"op3":"Moscow",
+"def":"Rome wasn't built in a day = You mustn't rush a big project"
+},
+{
+"qtype":"mcq",
+"ques":"This spaghetti is a far _____ from the original Italian style. ",
+"op1":"cry",
+"op2":"shout",
+"op3":"sound",
+"def":"A far cry = very different from"
+},
+{
+"qtype":"mcq",
+"ques":"The stuffed _____ in Washington have had another stupid idea. ",
+"op1":"suits",
+"op2":"noses",
+"op3":"shells",
+"def":"Stuffed suits = businessmen (insulting) "
+},
+{
+"qtype":"mcq",
+"ques":"Against all _____, South Korea won the World Cup. ",
+"op1":"odds",
+"op2":"evens",
+"op3":"bars",
+"def":"Against all odds = something very improbable happened"
+},
+{
+"qtype":"mcq",
+"ques":"Oops! My _____! I'll clean up the coffee stains. ",
+"op1":"bad",
+"op2":"stake",
+"op3":"wrong",
+"def":"My bad = my mistake"
+},
+{
+"qtype":"mcq",
+"ques":"I can't _____ any more of this sales pitch. ",
+"op1":"stomach",
+"op2":"hand",
+"op3":"breathe",
+"def":"Can't stomach = can't tolerate"
+},
+{
+"qtype":"mcq",
+"ques":"If you say not to trust him, I'll take your _____ for it. ",
+"op1":"word",
+"op2":"speech",
+"op3":"saying",
+"def":"Take your word for it = I trust what you say"
+},
+{
+"qtype":"mcq",
+"ques":"Bill! The boss wants to have a _____ with you in his office. ",
+"op1":"word",
+"op2":"speech",
+"op3":"sentence",
+"def":"Have a word with someone = to speak to someone"
+},
+{
+"qtype":"mcq",
+"ques":"Frank _____ out when he saw the bill. ",
+"op1":"freaked",
+"op2":"jumped",
+"op3":"climbed",
+"def":"Freak out = to panic or get excited"
+},
+{
+"qtype":"mcq",
+"ques":"Let's get started; there's no time like the _____. ",
+"op1":"present",
+"op2":"past",
+"op3":"future",
+"def":"No time like the present = now is the best time"
+},
+{
+"qtype":"mcq",
+"ques":"The surgery didn't go well. I'm afraid he didn't _____ it. ",
+"op1":"make",
+"op2":"get",
+"op3":"hold",
+"def":"Didn't make it = died"
+},
+{
+"qtype":"mcq",
+"ques":"I'm really _____ on this new computer game. ",
+"op1":"hooked",
+"op2":"jarred",
+"op3":"stabbed",
+"def":"Hooked = addicted to; to really like something"
+},
+{
+"qtype":"mcq",
+"ques":"Frank is a real _____. He just watches tv all day long. ",
+"op1":"slob",
+"op2":"blob",
+"op3":"gob",
+"def":"Slob = a lazy and messy person"
+},
+{
+"qtype":"mcq",
+"ques":"Frank is a real couch _____. He hardly moves from the sofa. ",
+"op1":"potato",
+"op2":"onion",
+"op3":"radish",
+"def":"Couch potato = a person who watches too much tv"
+},
+{
+"qtype":"mcq",
+"ques":"I think you're being too _____ on your secretary, making her work these hours. ",
+"op1":"hard",
+"op2":"sharp",
+"op3":"smooth",
+"def":"Be hard on = to be cruel to"
+},
+{
+"qtype":"mcq",
+"ques":"Can you _____ out here while I run to the bank? ",
+"op1":"chill",
+"op2":"relax",
+"op3":"rest",
+"def":"Chill out = relax"
+},
+{
+"qtype":"mcq",
+"ques":"I've got a _____ spot for Italian ice cream. ",
+"op1":"soft",
+"op2":"hard",
+"op3":"big",
+"def":"A soft spot = a liking for"
+},
+{
+"qtype":"mcq",
+"ques":"Don't trust that politician. People say that he's _____.",
+"op1":"crooked",
+"op2":"straight",
+"op3":"rigid",
+"def":"Crooked = bad or with criminal intent"
+},
+{
+"qtype":"mcq",
+"ques":"I almost won the competition, but I _____ it in the last round. ",
+"op1":"blew",
+"op2":"held",
+"op3":"folded",
+"def":"Blow it = to miss a good opportunity through a mistake"
+},
+{
+"qtype":"mcq",
+"ques":"We tried the new restaurant, but it was nothing to _____ about. ",
+"op1":"shout",
+"op2":"talk",
+"op3":"chirp",
+"def":"Nothing to shout about = not so good; nothing special"
+},
+{
+"qtype":"mcq",
+"ques":"He's still got a _____ on his shoulder about not getting promoted. ",
+"op1":"chip",
+"op2":"snack",
+"op3":"penny",
+"def":"Chip on his shoulder = an insecurity; a problem that affects someone mentally"
+},
+{
+"qtype":"mcq",
+"ques":"He drinks like a _____ when he goes out to the pub. ",
+"op1":"fish",
+"op2":"cat",
+"op3":"cow",
+"def":"Drink like a fish = to drink a lot of alcohol"
+},
+{
+"qtype":"mcq",
+"ques":"She drives me up the _____ with her nagging. ",
+"op1":"wall",
+"op2":"pole",
+"op3":"air",
+"def":"Drive me up the wall = make me angry or frustrated"
+},
+{
+"qtype":"mcq",
+"ques":"He turned his _____ on his sister when she needed him the most. ",
+"op1":"back",
+"op2":"face",
+"op3":"head",
+"def":"Turn your back on = to ignore; to turn down help"
+},
+{
+"qtype":"mcq",
+"ques":"I have a _____ feeling that something bad is going to happen. ",
+"op1":"gut",
+"op2":"heart",
+"op3":"lung",
+"def":"A gut feeling = an instinctive feeling"
+},
+{
+"qtype":"mcq",
+"ques":"Something is _____ about this deal. ",
+"op1":"fishy",
+"op2":"kitty",
+"op3":"doggy",
+"def":"Fishy = seems wrong"
+},
+{
+"qtype":"mcq",
+"ques":"His _____ plan is just a waste of time. ",
+"op1":"so-called",
+"op2":"uncalled",
+"op3":"recalled",
+"def":"So-called = said to be sarcastic about something"
+},
+{
+"qtype":"mcq",
+"ques":"You're playing with _____, challenging Jack like that. ",
+"op1":"fire",
+"op2":"ice",
+"op3":"air",
+"def":"Playing with fire = in a dangerous situation"
+},
+{
+"qtype":"mcq",
+"ques":"This campaign is a _____ cause; we should give up. ",
+"op1":"lost",
+"op2":"real",
+"op3":"small",
+"def":"A lost cause = something that cannot be achieved"
+},
+{
+"qtype":"mcq",
+"ques":"A picture is worth a _____ words. ",
+"op1":"thousand",
+"op2":"dozen",
+"op3":"hundred",
+"def":"A picture is worth a thousand words = a picture is better than text"
+},
+{
+"qtype":"mcq",
+"ques":"We'll have to work around the _____ to get it finished on time. ",
+"op1":"clock",
+"op2":"time",
+"op3":"sun",
+"def":"Around the clock = all day"
+},
+{
+"qtype":"mcq",
+"ques":"Jack works at a _____ pace; it'll take him all day to finish. ",
+"op1":"snail's",
+"op2":"turtle's",
+"op3":"hare's",
+"def":"At a snail's pace = very slowly"
+},
+{
+"qtype":"mcq",
+"ques":"I'm not rich or famous; I'm just an average _____. ",
+"op1":"Joe",
+"op2":"Sam",
+"op3":"Jack",
+"def":"An average Joe = a normal guy"
+},
+{
+"qtype":"mcq",
+"ques":"Jerome's painting was the best by _____. ",
+"op1":"far",
+"op2":"much",
+"op3":"real",
+"def":"By far = a by a large amount"
+},
+{
+"qtype":"mcq",
+"ques":"Most of the talks were held behind _____ doors. ",
+"op1":"closed",
+"op2":"solid",
+"op3":"steel",
+"def":"Behind closed doors = in secret"
+},
+{
+"qtype":"mcq",
+"ques":"The police caught him and put him behind _____. ",
+"op1":"bars",
+"op2":"prison",
+"op3":"jail",
+"def":"Behind bars = in prison"
+},
+{
+"qtype":"mcq",
+"ques":"We need to discuss the big _____ before we get to the details. ",
+"op1":"picture",
+"op2":"painting",
+"op3":"portrait",
+"def":"The big picture = the main idea"
+},
+{
+"qtype":"mcq",
+"ques":"She gave me the cold _____; she must still be upset. ",
+"op1":"shoulder",
+"op2":"knee",
+"op3":"elbow",
+"def":"Give someone the cold shoulder = ignore someone; be unfriendly to someone"
+},
+{
+"qtype":"mcq",
+"ques":"I'm so hungry I could eat a _____. ",
+"op1":"horse",
+"op2":"chicken",
+"op3":"snake",
+"def":"So hungry I could eat a horse = very hungry"
+},
+{
+"qtype":"mcq",
+"ques":"His days are _____; he'll be fired soon. ",
+"op1":"numbered",
+"op2":"free",
+"op3":"slow",
+"def":"Days are numbered = soon to die/be finished/be fired"
+},
+{
+"qtype":"mcq",
+"ques":"John can afford it; he's got _____ pockets. ",
+"op1":"deep",
+"op2":"big",
+"op3":"rich",
+"def":"Deep pockets = a lot of money available"
+},
+{
+"qtype":"mcq",
+"ques":"This photocopier is a _____; we need to replace it. ",
+"op1":"dinosaur",
+"op2":"cow",
+"op3":"donkey",
+"def":"A dinosaur = something very old-fashioned"
+},
+{
+"qtype":"mcq",
+"ques":"We'll do a dry _____ a few days before the actual wedding. ",
+"op1":"run",
+"op2":"take",
+"op3":"walk",
+"def":"A dry run = a practice session for an event such as a wedding"
+},
+{
+"qtype":"mcq",
+"ques":"The new phone is not just eye _____; it has a powerful processor too. ",
+"op1":"candy",
+"op2":"shine",
+"op3":"food",
+"def":"Eye candy = pretty or nice to look at"
+},
+{
+"qtype":"mcq",
+"ques":"She always annoys him. She really knows how to push his _____. ",
+"op1":"buttons",
+"op2":"cart",
+"op3":"head",
+"def":"Push someone's buttons = annoy someone through a knowledge of their weaknesses"
+},
+{
+"qtype":"mcq",
+"ques":"You always let people bully you. Don't be such a _____. ",
+"op1":"doormat",
+"op2":"window",
+"op3":"pillow",
+"def":"A doormat = someone who is easily bullied"
+},
+{
+"qtype":"mcq",
+"ques":"You should quit buying lottery tickets. It's just money down the _____. ",
+"op1":"drain",
+"op2":"tank",
+"op3":"hole",
+"def":"Down the drain = wasted"
+},
+{
+"qtype":"mcq",
+"ques":"Wow! You are really dressed to _____ tonight! ",
+"op1":"kill",
+"op2":"slaughter",
+"op3":"murder",
+"def":"Dressed to kill = dressed well"
+},
+{
+"qtype":"mcq",
+"ques":"Jack always has a date. He's a real _____ man. ",
+"op1":"ladies'",
+"op2":"girlies'",
+"op3":"sisters'",
+"def":"A ladies' man = a man popular with the ladies"
+},
+{
+"qtype":"mcq",
+"ques":"I donated ten dollars to the charity, but it's a _____ in the ocean compared to what they need. ",
+"op1":"drop",
+"op2":"bit",
+"op3":"spot",
+"def":"A drop in the ocean = a small amount"
+},
+{
+"qtype":"mcq",
+"ques":"Every Tom, Dick and _____ has an iPhone these days. ",
+"op1":"Harry",
+"op2":"Derek",
+"op3":"Sam",
+"def":"Every Tom, Dick and Harry = everybody"
+},
+{
+"qtype":"mcq",
+"ques":"Visiting the orphanage was a real _____ opener; those poor orphans! ",
+"op1":"eye",
+"op2":"mouth",
+"op3":"ear",
+"def":"An eye opener = a thing that makes you realise something"
+},
+{
+"qtype":"mcq",
+"ques":"Feel _____ to use my computer while I'm away. ",
+"op1":"free",
+"op2":"up",
+"op3":"down",
+"def":"Feel free = go ahead"
+},
+{
+"qtype":"mcq",
+"ques":"With the prices going up, I'm starting to feel the _____. ",
+"op1":"pinch",
+"op2":"hold",
+"op3":"grasp",
+"def":"Feel the pinch = have financial problems"
+},
+{
+"qtype":"mcq",
+"ques":"I invited a _____ of friends over for a barbeque. ",
+"op1":"bunch",
+"op2":"bucket",
+"op3":"flock",
+"def":"A bunch of = a lot of; a group of"
+},
+{
+"qtype":"mcq",
+"ques":"How can you treat your brother like that? He's your own flesh and _____. ",
+"op1":"blood",
+"op2":"bone",
+"op3":"skin",
+"def":"Flesh and blood = family member"
+},
+{
+"qtype":"mcq",
+"ques":"I don't know if your plan will work. It seems like a long _____. ",
+"op1":"shot",
+"op2":"pass",
+"op3":"way",
+"def":"A long shot = a small chance"
+},
+{
+"qtype":"mcq",
+"ques":"It's a _____ conclusion that Brazil will beat North Korea in the soccer game. ",
+"op1":"foregone",
+"op2":"predicted",
+"op3":"free",
+"def":"A foregone conclusion = a situation (like a sports event)  where the outcome is obvious"
+},
+{
+"qtype":"mcq",
+"ques":"Let's throw away the old design and start again from _____. ",
+"op1":"scratch",
+"op2":"itch",
+"op3":"pitch",
+"def":"From scratch = from the beginning; starting over "
+},
+{
+"qtype":"mcq",
+"ques":"This car is really _____ .It runs on natural gas. ",
+"op1":"green",
+"op2":"blue",
+"op3":"brown",
+"def":"Green = environmentally friendly"
+},
+{
+"qtype":"mcq",
+"ques":"She was _____ with envy when Bill asked Mandy for a date. ",
+"op1":"green",
+"op2":"red",
+"op3":"white",
+"def":"Green with envy = jealous"
+},
+{
+"qtype":"mcq",
+"ques":"We need a good _____ plan if we want to reach our sales targets. ",
+"op1":"game",
+"op2":"sport",
+"op3":"race",
+"def":"Game plan = strategy"
+},
+{
+"qtype":"mcq",
+"ques":"He may be the boss here, but his wife _____ the shots at home. ",
+"op1":"calls",
+"op2":"labels",
+"op3":"makes",
+"def":"Call the shots = to take command"
+},
+{
+"qtype":"mcq",
+"ques":"Do you get the _____? Or should I explain it again? ",
+"op1":"picture",
+"op2":"painting",
+"op3":"look",
+"def":"Get the picture = understand"
+}
+
+,
+{
+"qtype":"mcq",
+"ques":"DJ Joey is back in the ______ this week with his new album",
+"op1":"limelight",
+"op2":"daylight",
+"op3":"torchlight",
+"def":"In the limelight = getting attention"
+},
+{
+"qtype":"mcq",
+"ques":"Sherry helps out every weekend at an orphanage. She has a big ______.",
+"op1":"heart",
+"op2":"nose",
+"op3":"dress",
+"def":"Have a big heart = to be kind"
+},
+{
+"qtype":"mcq",
+"ques":"This pie is great. I love it to _______.",
+"op1":"bits",
+"op2":"spots",
+"op3":"chunks",
+"def":"Love it to bits = really like it"
+},
+{
+"qtype":"mcq",
+"ques":"We should hire more people. We need some new _______.",
+"op1":"blood",
+"op2":"feet",
+"op3":"hands",
+"def":"New blood = new employees/members"
+},
+{
+"qtype":"mcq",
+"ques":"When we changed the carpet, it was like a ______ of fresh air",
+"op1":"breath",
+"op2":"gust",
+"op3":"blow",
+"def":"Breath of fresh air = feeling of something new"
+},
+{
+"qtype":"mcq",
+"ques":"He was reluctant at first, but he's had a change of _______",
+"op1":"heart",
+"op2":"head",
+"op3":"stomach",
+"def":"A change of heart = a turnaround in opinion"
+},
+{
+"qtype":"mcq",
+"ques":"I'll have to work late tonight. I'll have to burn the midnight ______.",
+"op1":"oil",
+"op2":"fire",
+"op3":"gas",
+"def":"Burn the midnight oil = work until late."
+},
+{
+"qtype":"mcq",
+"ques":"I'm really _____ that you remembered my birthday.",
+"op1":"touched",
+"op2":"pushed",
+"op3":"kicked",
+"def":"To be touched = to have a nice feeling"
+},
+{
+"qtype":"mcq",
+"ques":"I can't come to the meeting, but I need you to keep me in the ______.",
+"op1":"loop",
+"op2":"pan",
+"op3":"race",
+"def":"Keep me in the loop = keep me informed"
+},
+{
+"qtype":"mcq",
+"ques":"His lame excuses are really getting _____.",
+"op1":"old",
+"op2":"young",
+"op3":"teenage",
+"def":"Getting old = becoming annoying"
+},
+{
+"qtype":"mcq",
+"ques":"The business meeting seemed to _____ on forever!",
+"op1":"drag",
+"op2":"take",
+"op3":"pull",
+"def":"Drag on = take a long time and be boring"
+},
+{
+"qtype":"mcq",
+"ques":"I'd love to help you but my _____ are tied!",
+"op1":"hands",
+"op2":"legs",
+"op3":"arms",
+"def":"My hands are tied = I'm not allowed to act"
+},
+{
+"qtype":"mcq",
+"ques":"You must be _____ if you think you can sell your car for ten thousand dollars.",
+"op1":"nuts",
+"op2":"beans",
+"op3":"chips",
+"def":"Nuts = crazy"
+}
+
+]}
