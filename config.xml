@@ -18,6 +18,10 @@
 <icon src="idicon48.png" gap:platform="android" gap:density="mdpi" />
 <icon src="idicon72.png" gap:platform="android" gap:density="hdpi" />
 <icon src="idicon72.png" gap:platform="android" gap:density="xhdpi" />
+
+<plugins>
+<plugin name="InAppBrowser" value="org.apache.cordova.InAppBrowser" />
+</plugins>
     
 
 </widget>
