@@ -11,6 +11,10 @@ var display="game1";
 var obj1;
 var obj2="#game1";
 var score1=0;var score2=0;
+
+window.addEventListener('load', function() {
+  new FastClick(document.body);
+}, false);
  
 qbank=new Array();qbank2=new Array();
 		typeArray=new Array();
